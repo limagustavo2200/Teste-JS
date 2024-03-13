@@ -1,5 +1,5 @@
 /* 
-Desafio 3
+Desafio  3 
 */
 
 // a) 1, 3, 5, 7, 9 --> somatorio do numero mais 2
@@ -12,4 +12,4 @@ Desafio 3
 
 // e) 1, 1, 2, 3, 5, 8, 13 --> Fibonacci
 
-// 2,10, 12, 16, 17, 18, 19, 200 --> começam com a letra "D"
+// 2,10, 12, 16, 17, 18, 19, 200 --> começam com a letra "D"!
