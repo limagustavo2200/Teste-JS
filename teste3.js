@@ -12,4 +12,4 @@ Desafio  3
 
 // e) 1, 1, 2, 3, 5, 8, 13 --> Fibonacci
 
-// 2,10, 12, 16, 17, 18, 19, 200 --> começam com a letra "D"!git push -u origin main
+// 2,10, 12, 16, 17, 18, 19, 200 --> começam com a letra "D"
